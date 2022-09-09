@@ -1,3 +1,12 @@
+--[[####################################################################################################
+    #                                                                                                  #
+    #                                                                                                  #
+    #                                     Gittyup Dracula Theme                                        #
+    #                                        Stephan Langenau                                          #
+    #                                       (Date Placeholder)                                         #
+    #                                                                                                  #
+    #                                                                                                  #
+    ####################################################################################################]]
 --
 -- Many colors support 'active', 'inactive', and 'disabled' states.
 -- They can all be set to the same color with the syntax:
