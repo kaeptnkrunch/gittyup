@@ -13,7 +13,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/gittyup/arc
 ##### Windows
 
 1. Go to <code>C:\Users\YOURUSERNAME\AppData\Local\Gittyup\themes</code>
-2. Copy the dracula.lua File into the folder
+2. Copy the Dracula.lua File into the folder
 3. It's installed, now activate the Theme
 
 #### Activating theme
