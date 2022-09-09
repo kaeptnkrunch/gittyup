@@ -13,9 +13,9 @@ All instructions can be found at [draculatheme.com/gittyup](https://draculatheme
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![kaeptnkrunch](https://github.com/kaeptnkrunch.png?size=100)](https://github.com/kaeptnkrunch) |
+| [![Stephan Langenau](https://github.com/kaeptnkrunch.png?size=100)](https://github.com/kaeptnkrunch) |
 | ---------------------------------------------------------------------------------------- |
-| [kaeptnkrunch](https://github.com/kaeptnkrunch)                                               |
+| [Stephan Langenau](https://github.com/kaeptnkrunch)                                               |
 
 ## Community
 
