@@ -17,11 +17,18 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ---------------------------------------------------------------------------------------- |
 | [Stephan Langenau](https://github.com/kaeptnkrunch)                                               |
 
-## Community
+## Contributing
 
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+Feel free to help me develop this extension by submitting pull requests! You can view a list of contributors [here](https://github.com/dracula/gittyup/graphs/contributors)
+
+## Questions
+
+If you have an problems getting something to work please email me at <stephanlangenau@gmail.com> or file a [Github Issue](https://github.com/dracula/gittyup/issues)
+
+## Social
+
+- [Twitter](https://twitter.com/kaeptnkrunch) - My Twitter
+
 
 ## License
 
