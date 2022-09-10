@@ -158,8 +158,8 @@ theme['link']      = {
 
 -- menubar background color
 theme['menubar']   = {
-  text             = '#212226',
-  background       = '#F0F0F0'
+  text             = '#f8f8f2',                             --[[Old #212226]]
+  background       = '#282a36',                             --[[Old #F0F0F0]]
 }
 
 -- tabbar background color (uncomment lines to customize)
