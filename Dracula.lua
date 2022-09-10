@@ -174,17 +174,17 @@ theme['comment']   = {
   background       = '#212228',
   body             = '#AAB2BE',
   author           = '#378BDD',
-  timestamp        = '#E1E5F2'
+  timestamp        = '#E1E5F2',
 }
 
 -- star fill color
 theme['star']      = {
-  fill             = '#FFFFFF'
+  fill             = '#282a36',                             --[[Old #FFFFFF]]
 }
 
 -- titlebar background color (currently only supported on macOS)
 theme['titlebar']  = {
-  background       = '#36383D'
+  background       = '#282a36',                             --[[Old #36383D]]
 }
 
 -- popup tooltip colors
