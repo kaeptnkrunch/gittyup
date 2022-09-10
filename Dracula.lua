@@ -55,8 +55,8 @@ theme['widget']    = {
 -- window colors
 -- { default, active, inactive, disabled }
 theme['window']    = {
-  text             = '#E1E5F2',
-  background       = '#2D2E34'
+  text             = '#f8f8f2',                             --[[Old #E1E5F2]]
+  background       = '#282a36',                             --[[Old #2D2E34]]
 }
 
 -- button colors
