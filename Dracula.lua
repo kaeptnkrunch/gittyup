@@ -27,16 +27,18 @@
 
 -- generic colors used to render borders and separators
 -- { default, active, inactive, disabled }
+--
+--
 theme['palette']   = {
   -- These names correspond to a dark on light theme.
   -- The values should be inverted in light on dark themes.
-  light            = '#1E1F23', -- inverse of dark
-  midlight         = '#212226', -- inverse of middark
-  middark          = '#2D2E34', -- inverse of midlight
+  light            = '#282a36', -- inverse of dark        --[[Old #1E1F23]]
+  midlight         = '#282a36', -- inverse of middark     --[[Old #212226]]
+  middark          = '#44475a', -- inverse of midlight    --[[Old #2D2E34]]
   dark             = '#36373E', -- inverse of light
 
   -- This should always be a dark color.
-  shadow           = '#212226'
+  shadow           = '#282a36'                             --[[Old #212226]]
 }
 
 -- the colors of text entry, list view, and other widgets
