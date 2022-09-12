@@ -8,6 +8,7 @@
     #                                                                                                  #
     ####################################################################################################]]
 --
+-- Colors can be changed easily by changing the Hex Code!
 --
 --
 -- Many colors support 'active', 'inactive', and 'disabled' states.
