@@ -190,8 +190,8 @@ theme['titlebar']  = {
 -- popup tooltip colors
 -- { default, active, inactive, disabled }
 theme['tooltip']   = {
-  text             = '#E1E5F2',
-  background       = '#2A82DA'
+  text             = '#f8f8f2',                              --[[Old #E1E5F2]]
+  background       = '#6272a4',                              --[[Old #2A82DA]]
 }
 
 -- editor styles
