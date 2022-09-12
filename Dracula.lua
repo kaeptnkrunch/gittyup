@@ -171,10 +171,10 @@ theme['tabbar']   = {
 
 -- remote comment colors
 theme['comment']   = {
-  background       = '#212228',
-  body             = '#AAB2BE',
-  author           = '#378BDD',
-  timestamp        = '#E1E5F2',
+  background       = '#282a36',                             --[[Old #212228]]
+  body             = '#44475a',                             --[[Old #AAB2BE]]
+  author           = '#6272a4',                             --[[Old #378BDD]]
+  timestamp        = '#f8f8f2',                             --[[Old #E1E5F2]]
 }
 
 -- star fill color
