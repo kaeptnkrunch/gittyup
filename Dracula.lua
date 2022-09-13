@@ -70,13 +70,13 @@ theme['button']    = {
 -- commit list colors
 -- { default, active, inactive, disabled }
 theme['commits']   = {
-  text             = '#E1E5F2',
-  bright_text      = '#AAB2BE',
-  background       = '#2D2E34',
-  alternate        = '#2D2E34', -- an alternate background color for list rows
-  highlight        = { active = '#2A82DA', inactive = '#1B5B9B' },
-  highlighted_text = { active = '#E1E5F2', inactive = '#E1E5F2' },
-  highlighted_bright_text = { active = '#A6CBF0', inactive = '#9090A5' }
+  text             = '#f8f8f2',           
+  bright_text      = '#8be9fd',                                                --[[Old #AAB2BE]]
+  background       = '#282a36',                                                --[[Old #2D2E34]]
+  alternate        = '#44475a', -- an alternate background color for list rows --[[Old #2D2E34]]
+  highlight        = { active = '#ff79c6', inactive = '#bd93f9' },             --[[Old #2A82DA, #1B5B9B]]
+  highlighted_text = { active = '#282a36', inactive = '#282a36' },             --[[Old #E1E5F2]] 
+  highlighted_bright_text = { active = '#282a36', inactive = '#282a36' }       --[[Old #A6CBF0, #9090A5]]
 }
 
 -- status badge colors
