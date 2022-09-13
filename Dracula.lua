@@ -153,8 +153,8 @@ theme['diff']      = {
 -- link colors
 -- { default, active, inactive, disabled }
 theme['link']      = {
-  link             = '#2A82DA',
-  link_visited     = '#FF00FF'
+  link             = '#f1fa8c',                             --[[Old #2A82DA]]
+  link_visited     = '#ffb86c'                              --[[Old #FF00FF]]
 }
 
 -- menubar background color
