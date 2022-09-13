@@ -97,8 +97,8 @@ theme['badge']     = {
 
 -- blame margin heatmap background colors
 theme['blame'] = {
-  cold             = '#44475a',  --[[Old #282940]]
-  hot              = '#6272a4'   --[[Old #5E3638]]
+  cold             = '#44475a',                                                --[[Old #282940]]
+  hot              = '#6272a4'                                                 --[[Old #5E3638]]
 }
 
 -- graph edge colors
