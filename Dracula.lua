@@ -61,10 +61,10 @@ theme['window']    = {
 }
 
 -- button colors
--- { default, active, inactive, disabled, checked, pressed }
+-- { default, active, inactive, disabled, checked, pressed } #6272a4
 theme['button']    = {
-  text             = { default = '#E1E5F2', inactive = '#555B65', disabled = '#555B65' },
-  background       = { default = '#2D2E34', checked = '#2A82DA', pressed = '#2A82DA' }
+  text             = { default = '#f8f8f2', inactive = '#6272a4', disabled = '#6272a4' }, --[[Old #E1E5F2, #555B65, #555B65]]
+  background       = { default = '#282a36', checked = '#bd93f9', pressed = '#bd93f9' }    --[[Old #2D2E34, #2A82DA, #2A82DA]]
 }
 
 -- commit list colors
