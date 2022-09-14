@@ -83,15 +83,15 @@ theme['commits']   = {
 -- { normal, selected, conflicted, head, notification }
 theme['badge']     = {
   foreground       = {
-    normal         = '#E1E5F2',
-    selected       = '#2A82DA'
+    normal         = '#282a36',                                                 --[[Old #E1E5F2]]
+    selected       = '#282a36'                                                  --[[Old #2A82DA]]
   },
   background       = {
-    normal         = '#2A82DA', -- the default color
-    selected       = '#E1E5F2', -- the color when a list item is selected
-    conflicted     = '#DA2ADA', -- the color of conflicted items
-    head           = '#52A500', -- a bolder color to indicate the HEAD
-    notification   = '#8C2026'  -- the color of toolbar notifications badges
+    normal         = '#ffb86c', -- the default color                            --[[Old #2A82DA]] 
+    selected       = '#bd93f9', -- the color when a list item is selected       --[[Old #E1E5F2]]
+    conflicted     = '#ff5555', -- the color of conflicted items                --[[Old #DA2ADA]]
+    head           = '#50fa7b', -- a bolder color to indicate the HEAD          --[[Old #52A500]]
+    notification   = '#8be9fd'  -- the color of toolbar notifications badges    --[[Old #8C2026]]
   }
 }
 
